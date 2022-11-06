@@ -332,6 +332,6 @@ class Items():  # parents class
                 print("*****"*5)
                 break
 
-help(Items)
+# help(Items)
 item_1 = Items()
 
